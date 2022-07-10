@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\homework_02\add_task_01\obj\Debug\net6.0\add_task_01.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\homework_02\add_task_01\obj\Debug\net6.0\add_task_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\homework_02\add_task_01\obj\Debug\net6.0\add_task_01.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\homework_02\add_task_01\obj\Debug\net6.0\add_task_01.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\homework_02\add_task_01\obj\Debug\net6.0\add_task_01.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\homework_02\add_task_01\bin\Debug\net6.0\add_task_01.exe
+C:\Users\Lenovo\Desktop\homework_02\add_task_01\bin\Debug\net6.0\add_task_01.deps.json
+C:\Users\Lenovo\Desktop\homework_02\add_task_01\bin\Debug\net6.0\add_task_01.runtimeconfig.json
+C:\Users\Lenovo\Desktop\homework_02\add_task_01\bin\Debug\net6.0\add_task_01.dll
+C:\Users\Lenovo\Desktop\homework_02\add_task_01\bin\Debug\net6.0\add_task_01.pdb
+C:\Users\Lenovo\Desktop\homework_02\add_task_01\obj\Debug\net6.0\add_task_01.dll
+C:\Users\Lenovo\Desktop\homework_02\add_task_01\obj\Debug\net6.0\refint\add_task_01.dll
+C:\Users\Lenovo\Desktop\homework_02\add_task_01\obj\Debug\net6.0\add_task_01.pdb
+C:\Users\Lenovo\Desktop\homework_02\add_task_01\obj\Debug\net6.0\add_task_01.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\homework_02\add_task_01\obj\Debug\net6.0\ref\add_task_01.dll
